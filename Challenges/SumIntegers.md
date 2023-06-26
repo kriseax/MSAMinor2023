@@ -16,3 +16,7 @@ target = 9
 
 Output:
 [0, 1]
+
+## Directions
+Work in teams of 4 to 5 scholars to produce a solution in pseudocode.
+
