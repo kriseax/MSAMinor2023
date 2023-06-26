@@ -1,4 +1,4 @@
-# Sum of Integers Challengs
+# Sum of Integers Challenge
 
 Given an array of integers nums and an integer target value target, write a function to return the indices of two numbers such that they add up to the target. You may assume that each input has exactly one solution, and you cannot use the same element twice.
 
